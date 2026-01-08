@@ -1,0 +1,9 @@
+Feature,Importance
+Tenure_Months,0.15033053
+Contract_Type,0.15005764
+Monthly_Charges,0.14830178
+Age,0.13392995
+Support_Tickets,0.11669025
+Internet_Service,0.10459626
+Gender,0.10194519
+Payment_Method,0.09414844
